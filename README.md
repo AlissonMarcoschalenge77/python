@@ -72,3 +72,20 @@ O código é organizado da seguinte forma:
 
 ```bash
 python tdb_responde.py
+```
+
+4. Siga as instruções exibidas no menu.
+
+---
+
+## Observações
+
+- O sistema **não possui persistência de dados**. Todas as informações são armazenadas em memória e serão perdidas ao encerrar o programa.
+- Para cada operação, o sistema solicita a confirmação ou informações necessárias para concluir a ação.
+- É recomendado digitar apenas números válidos para navegar no menu.
+
+---
+
+## Autor
+
+Alisson Kawan Evangelista Silva e Marcos Vinicius de Jesus Almeida
